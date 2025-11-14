@@ -1,39 +1,39 @@
-# Week [NUMMER] - [DATUM BEREIK]
+# Week [NUMBER] - [DATE RANGE]
 
-## 📅 Deze Week
-- [Maandag](./1-maandag-2025-[maand]-[dag].md) - [Korte samenvatting dag]
-- [Dinsdag](./2-dinsdag-2025-[maand]-[dag].md) - [Korte samenvatting dag]
-- [Woensdag](./3-woensdag-2025-[maand]-[dag].md) - [Korte samenvatting dag]
-- [Donderdag](./4-donderdag-2025-[maand]-[dag].md) - [Korte samenvatting dag]
-- [Vrijdag](./5-vrijdag-2025-[maand]-[dag].md) - [Korte samenvatting dag]
+## 📅 This Week
+- [Monday](./1-monday-2025-[month]-[day].md) - [Short day summary]
+- [Tuesday](./2-tuesday-2025-[month]-[day].md) - [Short day summary]
+- [Wednesday](./3-wednesday-2025-[month]-[day].md) - [Short day summary]
+- [Thursday](./4-thursday-2025-[month]-[day].md) - [Short day summary]
+- [Friday](./5-friday-2025-[month]-[day].md) - [Short day summary]
 
-## 🎯 Grote Thema's Deze Week
-1.  **[Thema 1]** - [Beschrijving]
-2.  **[Thema 2]** - [Beschrijving]
-3.  **[Thema 3]** - [Beschrijving]
+## 🎯 Major Themes This Week
+1.  **[Theme 1]** - [Description]
+2.  **[Theme 2]** - [Description]
+3.  **[Theme 3]** - [Description]
 
-## 📊 Leerdoelen Progressie & Concrete Voorbeelden
+## 📊 Learning Goals Progress & Concrete Examples
 
-*per leerdoel*
-### 1. {emoji} {leerdoel naam}
-**Status:** [✅ Groei / ⚠️ Aandachtspunt / ❌ Uitdaging]
+*per learning goal*
+### 1. {emoji} {learning goal name}
+**Status:** [✅ Growth / ⚠️ Attention Point / ❌ Challenge]
 
-**Wat ging goed (concrete voorbeelden):**
-- **[Voorbeeld 1]:** [Beschrijving]
-- **[Voorbeeld 2]:** [Beschrijving]
+**What went well (concrete examples):**
+- **[Example 1]:** [Description]
+- **[Example 2]:** [Description]
 
-**Aandachtspunt:**
-- **[Aandachtspunt]:** [Beschrijving]
+**Attention point:**
+- **[Attention point]:** [Description]
 
-## 🧠 Zelfinzicht & Profiel Bevestigingen (Beknopt)
-- **[Inzicht 1]:** [Korte beschrijving]
-- **[Inzicht 2]:** [Korte beschrijving]
-- **[Inzicht 3]:** [Korte beschrijving]
+## 🧠 Self-Insight & Profile Confirmations (Brief)
+- **[Insight 1]:** [Short description]
+- **[Insight 2]:** [Short description]
+- **[Insight 3]:** [Short description]
 
-## 💡 Acties Volgende Week
-1.  **[Actie 1]:** [Beschrijving]
-2.  **[Actie 2]:** [Beschrijving]
-3.  **[Actie 3]:** [Beschrijving]
+## 💡 Actions Next Week
+1.  **[Action 1]:** [Description]
+2.  **[Action 2]:** [Description]
+3.  **[Action 3]:** [Description]
 
-## 🌟 Weeksamenvatting
-[Grote reflectie over de week - wat liet deze week zien? Wat zijn de uitdagingen? Wat is de groei? Wat is het doel voor volgende week?]
+## 🌟 Week Summary
+[Big reflection on the week - what did this week show? What are the challenges? What is the growth? What is the goal for next week?]

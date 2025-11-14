@@ -1,25 +1,25 @@
-# [DATUM] - [DAG VAN DE WEEK]
+# [DATE] - [DAY OF THE WEEK]
 
-## 🎯 Gepland
+## 🎯 Planned
 - [ ] 
 - [ ] 
 - [ ] 
 
-## 📝 Dagverloop - Gebeurtenissen
-*Wat gebeurde er echt? Feitelijke observaties per tijdstip/activiteit*
+## 📝 Daily Flow - Events
+*What really happened? Factual observations per time/activity*
 
-### [ACTIVITEIT/PROJECT NAAM]
-(losse, vrije tekstvorm, geen verdere subkopjes)
+### [ACTIVITY/PROJECT NAME]
+(loose, free text format, no further subheadings)
 
-## 🔍 Einde Dag - Reflectie
+## 🔍 End of Day - Reflection
 
-### Waar Ik Trots Op Ben 🌟
-*Wat ging er vandaag goed? Waar ben je trots op - groot of klein?*
+### What I am proud of 🌟
+*What went well today? What are you proud of - big or small?*
 
-### Groei & Inzichten
-*Samen invullen met AI Coach - patronen, skills, profiel-bevestigingen*
+### Growth & Insights
+*Fill in together with AI Coach - patterns, skills, profile confirmations*
 
-## 📋 Taken voor Later
-*Belangrijke taken die niet vandaag gebeuren*
+## 📋 Tasks for Later
+*Important tasks that don't happen today*
 - [ ] 
 - [ ]
