@@ -2,6 +2,8 @@
 
 Een gestructureerd systeem voor persoonlijke en professionele ontwikkeling door dagelijks journallen met AI-ondersteuning. Dit template helpt je om groei zichtbaar te maken, patronen te herkennen en betekenisvolle reflecties vast te leggen.
 
+There is also an [English version](https://github.com/TimoBakx/ai-journaling-template).
+
 ## 🎯 Doel
 
 Dit journalling systeem is ontworpen om:
