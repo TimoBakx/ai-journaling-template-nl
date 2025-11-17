@@ -1,4 +1,4 @@
-# 📚 AI-Powered Journalling & Personal Growth System
+# 📚 AI-Powered Journaling & Personal Growth System
 
 Een gestructureerd systeem voor persoonlijke en professionele ontwikkeling door dagelijks journallen met AI-ondersteuning. Dit template helpt je om groei zichtbaar te maken, patronen te herkennen en betekenisvolle reflecties vast te leggen.
 
@@ -6,7 +6,7 @@ There is also an [English version](https://github.com/TimoBakx/ai-journaling-tem
 
 ## 🎯 Doel
 
-Dit journalling systeem is ontworpen om:
+Dit journaling systeem is ontworpen om:
 - **Persoonlijke en professionele groei bij te houden** door gestructureerde reflectie
 - **Inzichten te bewaren** uit dagelijkse ervaringen, gesprekken en leermomenten
 - **Patronen te herkennen** in je denken, gedrag en ontwikkeling
@@ -34,7 +34,7 @@ notes/
 │       ├── ai-coach-rol.mdc              # Rol en functies van je AI coach
 │       ├── algemene-regels.mdc           # Project structuur en werkwijze
 │       ├── gebruikersprofiel.mdc         # Verwijzing naar profiel directory
-│       ├── journalling-regels.mdc        # Dagelijkse journalling werkwijze
+│       ├── journaling-regels.mdc        # Dagelijkse journaling werkwijze
 │       ├── reflectie-regels.mdc          # Einde dag reflectie methodiek
 │       └── evaluatie-regels.mdc          # Wekelijkse evaluatie aanpak
 ├── profiel/                   # Persoonlijke assessments en profielen (optioneel)
@@ -47,7 +47,7 @@ notes/
 │   ├── [DATUM]-jaargesprek.md            # Jaarlijkse gesprekken
 │   ├── [DATUM]-halfjaargesprek.md        # Halfjaars check-ins
 │   └── persoonlijke-groei-plan-[JAAR].md # Groeiplannen
-├── journal/                   # Dagelijkse journalling en reflectie
+├── journal/                   # Dagelijkse journaling en reflectie
 │   ├── [JAAR]/                # Jaar directory (bijv. 2025/)
 │   │   └── [WEEK]/            # Week directory (bijv. 45/)
 │   │       ├── 1-maandag-[JAAR]-[MAAND]-[DAG].md
@@ -131,7 +131,7 @@ Dit systeem is ontworpen om naadloos te werken met AI-ondersteuning (zoals Curso
 - **Gestructureerde reflectie** - Frameworks voor betekenisvolle groei
 - **Geheugen functie** - Terugverwijzen naar eerdere notities en patronen
 
-## 📝 Journalling Workflow
+## 📝 Journaling Workflow
 
 ### Dagelijkse Routine
 1. **Start je dag** - Vul de "🎯 Gepland" sectie met je taken
@@ -172,7 +172,7 @@ Je AI coach helpt je met:
 
 ## 🌱 Filosofie
 
-Deze journalling aanpak is gebouwd op:
+Deze journaling aanpak is gebouwd op:
 - **Veiligheid** - dit is jouw veilige ruimte voor groei en reflectie
 - **Eerlijkheid** - authentiek delen zonder filter of oordeel
 - **Geduld** - groei heeft tijd nodig, kleine stappen tellen
